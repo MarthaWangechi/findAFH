@@ -116,11 +116,21 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
+  google_maps:
+    dependency: "direct main"
+    description:
+      name: google_maps
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "5.1.0"
+=======
   flutter_web_plugins:
     dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
+>>>>>>> 602d32384f876e3913ceb02d60fa5584e73caa41
   js:
     dependency: transitive
     description:
@@ -128,6 +138,16 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.6.3"
+<<<<<<< HEAD
+  js_wrapping:
+    dependency: transitive
+    description:
+      name: js_wrapping
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.0"
+=======
+>>>>>>> 602d32384f876e3913ceb02d60fa5584e73caa41
   matcher:
     dependency: transitive
     description:
