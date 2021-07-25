@@ -1,6 +1,7 @@
 import 'package:find_afh/Screens/listings_map_screen.dart';
 import 'package:find_afh/constants.dart';
 import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'package:find_afh/city_dropdown.dart';
 
